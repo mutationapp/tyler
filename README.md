@@ -1,3 +1,3 @@
 # In Tyler we trust
 
-monolisa in F#, WIP
+🎨 monolisa wearing F#, WIP 🚧
